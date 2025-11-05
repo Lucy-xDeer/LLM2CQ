@@ -1,4 +1,4 @@
-# CadQuery Assistant Starter
+# LLM2CQ
 
 
 本仓库当前提供一个最小可运行的“Planner → Environment → Tools”闭环骨架：
