@@ -9,7 +9,7 @@
 
 
 ## 下一步
-1. 在 `prompts/system_tools.md` 补充你论文里的任务与工具清单，确保模型了解接口。
+1. 在 `prompts/system_tools.md` 补充论任务与工具清单，确保模型了解接口。
 2. 把 `runners/demo_sketch_to_solid.py` 改为 `planner.OpenAIPlannerChain` 驱动的循环：
 - 初始 `feedback=None`
 - `planner.step(GOAL, feedback)` → 取 `action_code`
