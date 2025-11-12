@@ -1,0 +1,9 @@
+cadquery>=2.4
+numpy
+pillow
+matplotlib
+trimesh
+scikit-image
+python-dotenv
+openai>=1.51.0
+pyyaml
